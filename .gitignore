@@ -1,0 +1,7 @@
+/node_modules
+/vendor
+/.idea
+.idea/ 
+.env
+/src/controllers/controller_TMDT/CRUD/geminiAIController.js
+/src/routes/routes_TMDT/aiRoutes.js
