@@ -50,7 +50,9 @@ connectDB();
 
 // Cài đặt CORS
 const allowedOrigins = [
-    'http://localhost:3171',     
+    'http://localhost:3171', 
+    'https://ngocphu.store',
+    'https://www.ngocphu.store'
 ];
 
 app.use(cookieParser());
