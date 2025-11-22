@@ -52,7 +52,8 @@ connectDB();
 const allowedOrigins = [
     'http://localhost:3171', 
     'https://ngocphu.store',
-    'https://www.ngocphu.store'
+    'https://www.ngocphu.store',
+    'https://bansamyen.dantri24h.com'
 ];
 
 app.use(cookieParser());
